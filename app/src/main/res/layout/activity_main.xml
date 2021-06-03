@@ -29,21 +29,21 @@
             android:gravity="center_horizontal"
             android:padding="10dp"
             android:layout_weight="1"
-            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
             android:background="@drawable/botao_customizado"
-            android:text="Adicionar"/>
+            android:text="@string/adicionar"/>
 
         <Button
             android:id="@+id/btRemover"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
             android:padding="10dp"
             android:gravity="center_horizontal"
             android:layout_weight="1"
             android:background="@drawable/botao_customizado"
 
-            android:text="Remover"/>
+            android:text="@string/remover"/>
 
     </LinearLayout>
 

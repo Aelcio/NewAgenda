@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">NewAgenda</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="remover">Remover</string>
     <string-array name="list_estatica">
         <item>lista 1</item>
         <item>lista 2</item>
