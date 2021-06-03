@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewAgenda</string>
+    <string-array name="list_estatica">
+        <item>lista 1</item>
+        <item>lista 2</item>
+        <item>lista 3</item>
+        <item>lista 4</item>
+        <item>lista 5</item>
+        <item>lista 6</item>
+    </string-array>
+</resources>
